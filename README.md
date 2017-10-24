@@ -1,4 +1,6 @@
-# Paragraphs
+# HTML
+
+## Paragraphs
 
 ```
 <p>This a sample paragraph.</p>
@@ -8,7 +10,7 @@
 <p>This a sample paragraph.</p>
 <p>This is another paragraph.</p>
 
-# Headings
+## Headings
 
 ```
 <h1>This is a level 1 heading</h1>
@@ -24,7 +26,7 @@
 <h4>This is a level 4 heading</h4>
 <h5>This is a level 5 heading</h5>
 
-# Text Styles
+## Text Styles
 
 ```This text is <strong>bold</strong>.```
 
@@ -34,7 +36,7 @@ This text is <strong>bold</strong>.
 
 This text is <em>italic</em>.
 
-# Lists
+## Lists
 
 ```
 <ul>
@@ -72,7 +74,7 @@ This text is <em>italic</em>.
   <li>list</li>
 </ol>
 
-# Links
+## Links
 
 ```
 This is a <a href="http://google.com">link</a>.
@@ -80,7 +82,7 @@ This is a <a href="http://google.com">link</a>.
 
 This is a <a href="http://google.com">link</a>.
 
-# Tables
+## Tables
 
 ```
 <table>
