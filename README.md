@@ -36,8 +36,72 @@ This text is <em>italic</em>.
 
 # Lists
 
+```
+<ul>
+  <li>This</li>
+  <li>is</li>
+  <li>a</li>
+  <li>bulleted</li>
+  <li>list</li>
+</ul>
+```
+
+<ul>
+  <li>This</li>
+  <li>is</li>
+  <li>a</li>
+  <li>bulleted</li>
+  <li>list</li>
+</ul>
+
+```
+<ol>
+  <li>This</li>
+  <li>is</li>
+  <li>a</li>
+  <li>numbered</li>
+  <li>list</li>
+</ol>
+```
+
+<ol>
+  <li>This</li>
+  <li>is</li>
+  <li>a</li>
+  <li>numbered</li>
+  <li>list</li>
+</ol>
+
 # Links
+
+```
+This is a <a href="http://google.com">link</a>.
+```
+
+This is a <a href="http://google.com">link</a>.
 
 # Tables
 
-# 
+```
+<table>
+  <tr>
+    <td>This</td>
+    <td>is</td>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>table</td>
+  </tr>
+</table>
+```
+
+<table>
+  <tr>
+    <td>This</td>
+    <td>is</td>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>table</td>
+  </tr>
+</table>
